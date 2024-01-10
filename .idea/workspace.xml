@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a480541-d378-43c1-acf9-30c73bb2a78a" name="Changes" comment="coroutines">
+    <list default="true" id="0a480541-d378-43c1-acf9-30c73bb2a78a" name="Changes" comment="coroutines basics">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MyDataType.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +86,7 @@
       <workItem from="1704649645606" duration="11402000" />
       <workItem from="1704730455119" duration="1826000" />
       <workItem from="1704745307476" duration="860000" />
-      <workItem from="1704755627235" duration="4304000" />
+      <workItem from="1704755627235" duration="16246000" />
     </task>
     <task id="LOCAL-00001" summary="coroutines">
       <option name="closed" value="true" />
@@ -95,7 +96,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704749813250</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="coroutines basics">
+      <option name="closed" value="true" />
+      <created>1704825789440</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704825789440</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="coroutines" />
-    <option name="LAST_COMMIT_MESSAGE" value="coroutines" />
+    <MESSAGE value="coroutines basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="coroutines basics" />
   </component>
 </project>
