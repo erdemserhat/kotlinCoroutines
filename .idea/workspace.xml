@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0a480541-d378-43c1-acf9-30c73bb2a78a" name="Changes" comment="coroutines basics">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/MyDataType.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +85,8 @@
       <workItem from="1704730455119" duration="1826000" />
       <workItem from="1704745307476" duration="860000" />
       <workItem from="1704755627235" duration="16246000" />
+      <workItem from="1704916291839" duration="112000" />
+      <workItem from="1704919281275" duration="26000" />
     </task>
     <task id="LOCAL-00001" summary="coroutines">
       <option name="closed" value="true" />
